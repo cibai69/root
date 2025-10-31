@@ -128,5 +128,5 @@ ClientAliveInterval 120
 
 #TrustedUserCAKeys /etc/ssh/lightsail_instance_ca.pub
 #
-Banner /etc/issue.net
+# Banner /etc/issue.net
 AllowTcpForwarding yes
